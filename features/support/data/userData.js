@@ -8,8 +8,8 @@ export default class UserData{
             '7',
             '8',
             '1989',
-            'simba.zahayska@testdevlab.com',
-            'best',
+            'simba.bimba@testdevlab.com',
+            'bimba',
             'Newspage@1234simba'
         )
     }
