@@ -3,14 +3,14 @@ export default class UserData{
     constructor(){
         this.newUser = new NewUser(
             'female',
-            'Nataliya',
+            'Nativida',
             'Zahayska',
             '7',
             '8',
             '1989',
-            'simba.bimba@testdevlab.com',
-            'bimba',
-            'Newspage@1234simba'
+            'nativida.zahayska@gmail.com',
+            'beast',
+            'Newspage@1234mipo'
         )
     }
 
@@ -26,6 +26,6 @@ class NewUser{
         this.birthYear = birthYear;
         this.email = email;
         this.company = company;
-        this.password = password
+        this.password = password;
     }
 }
